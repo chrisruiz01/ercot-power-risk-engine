@@ -1,4 +1,4 @@
-# 🔌 ERCOT Power Price Risk Engine
+  # 🔌 ERCOT Power Price Risk Engine
 
 A decision engine that translates weather-driven load forecasts into **power price spike risk and hedging actions**, with full historical backtesting and economic impact.
 
@@ -218,4 +218,4 @@ This reflects how real trading and risk systems operate.
 - Probabilistic price distributions
 
 ### 👤 Author
-Chris Ruiz
+Chris Ruiz  
