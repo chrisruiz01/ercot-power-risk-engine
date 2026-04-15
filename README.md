@@ -197,7 +197,7 @@ ercot-power-risk-engine/
 pip install -r requirements.txt
 streamlit run src/app.py
 ```
----
+--- 
 
 ## 🎯 Why This Project Matters
 
